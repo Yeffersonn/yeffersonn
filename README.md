@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**Yeffersonn/yeffersonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+    <img src="https://giphy.com/embed/iIqmM5tTjmpOB9mpbn" width="200" />
+    <h1 align="center">Hi 👋, I'm YouDevs</h1>
+    <h3 align="center">A passionate web fullstack developer from México. I like teaching what I learn in my Social
+        Media: YouTube, Twitch and TikTok where you can find me like a YouDevs, and my secundary youtube channel: NKL
+        YouDevs.</h3>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="badges" align="center">
+    <a href="http://twitch.com/youdevs" target="_blank">
+        <img src="https://img.shields.io/twitch/status/youdevs?color=purple&logo=twitch&style=for-the-badge"
+            alt="Twitch Badge" />
+    </a>
+    <a href="https://www.youtube.com/youdevs" target="_blank">
+        <img src="https://img.shields.io/youtube/channel/subscribers/UC4hHrYhWMy-iN29_3bJ7zfA?label=suscriptores&logo=youtube&style=for-the-badge"
+            alt="Youtube Badge" />
+    </a>
+    <a href="https://twitter.com/CarlosYouDevs" target="_blank">
+        <img src="https://img.shields.io/twitter/follow/CarlosYouDevs?color=blue&label=CarlosYouDevs&logo=twitter&style=for-the-badge"
+            alt="Twitter Badge" />
+    </a>
+</div>
